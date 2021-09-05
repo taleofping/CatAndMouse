@@ -1,0 +1,3 @@
+- Extract file
+- If you don't have Pygame, open the command prompt and type "pip install pygame" command
+- Run
